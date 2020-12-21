@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/max/1024/1*11p2PgKZblBwmepxmGex-w.png" />
+
 # flutter_camera
 
 Basic implementation of accessing native device functions using flutter plugins
